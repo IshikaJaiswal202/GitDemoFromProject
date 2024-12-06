@@ -1,6 +1,6 @@
 package org.example;
 
 public class Entity {
-    private int Id;
+    private Entity Id;
     private String name;
 }
